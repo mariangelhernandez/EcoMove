@@ -1,0 +1,17 @@
+.card{
+    background-color: aqua;
+    width: 100px;
+    height: 150px;
+
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.flexExemplo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 10px;
+}
